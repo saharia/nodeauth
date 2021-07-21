@@ -1,0 +1,23 @@
+{
+  "name": "nodeauthmiddleware12",
+  "version": "1.0.0",
+  "description": "Add middleware auth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saharia/nodeauth.git"
+  },
+  "keywords": [
+    "node",
+    "auth"
+  ],
+  "author": "Bright Saharia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saharia/nodeauth/issues"
+  },
+  "homepage": "https://github.com/saharia/nodeauth#readme"
+}
